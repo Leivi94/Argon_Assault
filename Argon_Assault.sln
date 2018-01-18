@@ -1,12 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argon_Assault.Plugins", "Argon_Assault.Plugins.csproj", "{01AD2306-528D-CDF9-0127-BDB2AE7726E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argon_Assault", "Argon_Assault.csproj", "{B5A4E3A7-E169-F299-CF3D-36B2B544CA7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argon_Assault.Editor.Plugins", "Argon_Assault.Editor.Plugins.csproj", "{775D6211-43C6-89F7-C8CE-D6B159BF9061}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AD2306-528D-CDF9-0127-BDB2AE7726E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AD2306-528D-CDF9-0127-BDB2AE7726E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AD2306-528D-CDF9-0127-BDB2AE7726E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AD2306-528D-CDF9-0127-BDB2AE7726E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A4E3A7-E169-F299-CF3D-36B2B544CA7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A4E3A7-E169-F299-CF3D-36B2B544CA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A4E3A7-E169-F299-CF3D-36B2B544CA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A4E3A7-E169-F299-CF3D-36B2B544CA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775D6211-43C6-89F7-C8CE-D6B159BF9061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775D6211-43C6-89F7-C8CE-D6B159BF9061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775D6211-43C6-89F7-C8CE-D6B159BF9061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775D6211-43C6-89F7-C8CE-D6B159BF9061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
