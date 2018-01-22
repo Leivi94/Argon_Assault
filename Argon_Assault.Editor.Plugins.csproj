@@ -282,13 +282,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Argon_Assault.Plugins.csproj">
-      <Project>{01AD2306-528D-CDF9-0127-BDB2AE7726E1}</Project>
-      <Name>Argon_Assault.Plugins</Name>
-    </ProjectReference>
     <ProjectReference Include="Argon_Assault.csproj">
       <Project>{B5A4E3A7-E169-F299-CF3D-36B2B544CA7C}</Project>
       <Name>Argon_Assault</Name>
+    </ProjectReference>
+    <ProjectReference Include="Argon_Assault.Plugins.csproj">
+      <Project>{01AD2306-528D-CDF9-0127-BDB2AE7726E1}</Project>
+      <Name>Argon_Assault.Plugins</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -293,6 +293,7 @@
     <Compile Include="Assets\MusicPlayer.cs" />
     <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\SceneLoader.cs" />
+    <Compile Include="Assets\ScoreBoard.cs" />
     <Compile Include="Assets\SelfDestruct.cs" />
     <Compile Include="Assets\StratosClassCruiser\Ocillator.cs" />
   </ItemGroup>
